@@ -1,7 +1,7 @@
 ## What is this?
 Create your own Codeforces contest with your requirements automatically by this
 
-<iframe style="max-width:500px; width:100%; aspect-ratio:16/9" src="https://www.youtube.com/embed/QBxa-1oEm-o" title="Codforce Contest Creator Bot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe style="max-width:500px; width:100%; aspect-ratio:16/9" src="https://www.youtube.com/embed/QBxa-1oEm-o" allowfullscreen></iframe>
 
 ***
 
