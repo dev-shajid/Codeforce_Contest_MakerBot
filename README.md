@@ -1,9 +1,10 @@
 ## What is this?
 Create your own Codeforces contest with your requirements automatically by this
 
-[![Video](https://img.youtube.com/vi/QBxa-1oEm-o/0.jpg)](https://www.youtube.com/watch?v=QBxa-1oEm-o)
 
-
+<a href="https://www.youtube.com/watch?v=QBxa-1oEm-o" target="_blank">
+  <img src="https://img.youtube.com/vi/QBxa-1oEm-o/maxresdefault.jpg" alt="Video Thumbnail" width="800">
+</a>
 
 ***
 
