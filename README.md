@@ -3,6 +3,9 @@ Create your own Codeforces contest with your requirements automatically by this
 
 <iframe style="max-width:500px; width:100%; aspect-ratio:16/9" src="https://www.youtube.com/embed/QBxa-1oEm-o" allowfullscreen></iframe>
 
+[![Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/embed/QBxa-1oEm-o)
+
+
 ***
 
 ## Run the Bot
