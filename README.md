@@ -1,4 +1,9 @@
-# Run the Bot
+## What is this?
+Create your own Codeforces contest with your requirements automatically by this
+
+***
+
+## Run the Bot
 **1. Download the project first**
 
 **2. Must have Node JS installed**
